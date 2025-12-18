@@ -1,4 +1,4 @@
 feature1+bugfix1
 feature2
 feature3
-feature45
+bugfix2 + feature45
